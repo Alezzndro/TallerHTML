@@ -1,3 +1,3 @@
 # Taller desarollado por:
-Alessandro Marconi
-Emmanuel Peralta
+-Alessandro Marconi
+-Emmanuel Peralta
