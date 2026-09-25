@@ -1,1 +1,3 @@
-# TalklerHTML
+# Taller desarollado por:
+Alessandro Marconi
+Emmanuel Peralta
